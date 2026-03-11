@@ -48,6 +48,12 @@
 
 ---
 
+## Qo'shimcha qo'llanmalar / Additional Guides
+
+- [ILSpy yordamida .exe faylni decompile qilish / Decompiling a .exe file using ILSpy](ILSpy-decompile.md)
+
+---
+
 ## Yordam / Help
 
 Savollar yoki muammolar bo'lsa, ushbu repozitoriyning [Issues](../../issues) bo'limida murojaat qiling.
